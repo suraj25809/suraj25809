@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -23,8 +23,9 @@ LATEST UPDATE: Learning Mern Stack & Android App Development
     👨‍💻 #SelfTaught Developer.
     📱 Mobile App developer.
     😍 Loves to Develop new Apps and Website ❤️
+    - 🔭 I’m currently working on Nodejs & Android
     
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj25809&layout=compact" alt="surajkumar" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj25809&layout=compact" alt="agamkoradiya" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=suraj25809&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
