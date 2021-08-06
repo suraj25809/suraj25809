@@ -23,5 +23,9 @@ LATEST UPDATE: Learning Mern Stack & Android App Development
     👨‍💻 #SelfTaught Developer.
     📱 Mobile App developer.
     😍 Loves to Develop new Apps and Website ❤️
+    
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj25809&layout=compact" alt="surajkumar" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=black-blue" alt="nameisjayant"/>
+<img src="https://github-readme-stats.vercel.app/api?username=suraj25809&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suraj25809&theme=black-blue" alt="surajkumar"/>
