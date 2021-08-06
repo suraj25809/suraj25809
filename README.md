@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there👋! I'm Suraj Kumar Vishwakarma 😇
+
+LATEST UPDATE: Learning Mern Stack & Android App Development
+
+    👨‍🎓 21 year old computer science engineer.
+    👨‍💻 #SelfTaught Developer.
+    📱 Mobile App developer.
+    😍 Loves to Develop new Apps and Website ❤️
+
