@@ -24,3 +24,4 @@ LATEST UPDATE: Learning Mern Stack & Android App Development
     📱 Mobile App developer.
     😍 Loves to Develop new Apps and Website ❤️
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nameisjayant&theme=black-blue" alt="nameisjayant"/>
